@@ -6,6 +6,9 @@ public class sample01 {
 		System.out.println("ミテイルナ");
 		System.out.println("ミツケタ");
 		System.out.println("紫");
+		System.out.println("ミテイルナ");
+		System.out.println("ミツケタ");
+		System.out.println("紫");
 	}
 
 }
